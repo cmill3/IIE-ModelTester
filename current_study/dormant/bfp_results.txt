@@ -1,0 +1,434 @@
+BFP_1d_temporal_simulation_0
+['daily_vol_diff_pct', 'SPY_diff', 'volume_vol_450M', 'SPY_diff3', 'range_vol_diff5', 'SPY_3D', 'roc', 'daily_volume_vol_diff_pct', 'close_diff', 'hour_vol_diff_pct', 'volume_vol_30D', 'hour', 'volume_vol_10D', 'rsi3', 'min_volume_vol_diff', 'return_vol_8H', 'daily_volume_vol_diff30', 'hour_vol_diff', 'price_10DDiff', 'cmf', 'daily_vol_diff_pct30', 'threeD_stddev50', 'oneD_stddev50', 'threeD_returns_close', 'min_vol_diff', 'price_25DDiff', 'close_diff_deviation3', 'daily_vol_diff', 'price7', 'roc5', 'close_diff5', 'volume_vol_5D', 'month', 'oneD_returns_close', 'min_vol_diff_pct', 'adx', 'daily_vol_diff30', 'rsi', 'daily_volume_vol_diff']
+212.0 40.06
+
+BFP_1d_temporal_simulation_1
+['rsi', 'SPY_3D', 'rsi5', 'min_volume_vol_diff', 'volume_vol_5D', 'daily_vol_diff_pct30', 'return_vol_450M', 'cmf', 'daily_volume_vol_diff', 'threeD_stddev50', 'return_vol_240M', 'return_vol_8H', 'roc_diff', 'v_diff_pct', 'threeD_returns_close', 'return_vol_10D', 'close_diff', 'volume_vol_240M', 'price_25DDiff', 'close_diff_deviation3', 'hour_volume_vol_diff', 'oneD_returns_close']
+214.3 40.08
+
+BFP_1d_temporal_simulation_2
+['close_diff5', 'hour_vol_diff', 'threeD_returns_close', 'volume_vol_8H', 'roc', 'return_vol_30D', 'month', 'min_volume_vol_diff', 'price_10DDiff', 'rsi3', 'return_vol_10D', 'roc3', 'daily_vol_diff_pct30', 'hour_volume_vol_diff_pct', 'hour_volume_vol_diff', 'SPY_1D', 'daily_volume_vol_diff', 'daily_volume_vol_diff_pct30', 'price_25DDiff', 'return_vol_450M']
+207.1 34.38
+
+BFP_1d_temporal_simulation_3
+['close_diff', 'SPY_1D', 'day_of_month', 'return_vol_30D', 'min_vol_diff', 'price7', 'min_volume_vol_diff', 'hour_volume_vol_diff_pct', 'roc5', 'daily_vol_diff30', 'day_of_week', 'price_10DDiff', 'oneD_returns_close', 'daily_vol_diff_pct', 'SPY_diff', 'threeD_returns_close', 'daily_volume_vol_diff30', 'month', 'return_vol_10D', 'return_vol_5D', 'volume_vol_10D', 'SPY_diff3', 'volume_vol_30D', 'range_vol_diff5', 'daily_volume_vol_diff', 'volume_vol_240M', 'rsi3', 'rsi', 'close_diff_deviation', 'SPY_3D', 'daily_volume_vol_diff_pct', 'hour_volume_vol_diff', 'return_vol_8H', 'roc3', 'volume_vol_8H', 'volume_vol_16H', 'return_vol_450M', 'range_vol', 'daily_volume_vol_diff_pct30']
+215.62 38.76
+
+BFP_1d_temporal_simulation_4
+['daily_vol_diff', 'min_vol_diff', 'month', 'rsi', 'threeD_returns_close', 'daily_volume_vol_diff_pct', 'adx', 'rsi5', 'oneD_returns_close', 'close_diff5', 'oneD_stddev50', 'return_vol_240M', 'daily_vol_diff30', 'SPY_diff', 'range_vol', 'return_vol_30D', 'close_diff3', 'daily_volume_vol_diff_pct30', 'roc_diff', 'volume_vol_30D', 'roc5', 'daily_vol_diff_pct30', 'range_vol_diff5', 'return_vol_10D', 'SPY_diff3', 'SPY_1D', 'return_vol_5D', 'hour', 'volume_vol_10D', 'hour_volume_vol_diff_pct', 'volume_vol_5D', 'volume_vol_450M', 'volume_vol_240M', 'volume_vol_8H', 'price7']
+210.78 37.98
+
+BFP_1d_temporal_simulation_5
+['return_vol_450M', 'threeD_returns_close', 'close_diff_deviation', 'SPY_1D', 'roc_diff', 'return_vol_16H', 'hour_vol_diff', 'volume_vol_8H', 'daily_vol_diff', 'roc5', 'daily_volume_vol_diff_pct30', 'daily_vol_diff_pct30', 'rsi', 'rsi5', 'price_25DDiff', 'SPY_diff', 'close_diff5', 'close_diff_deviation3', 'return_vol_8H', 'threeD_stddev50', 'return_vol_240M', 'rsi3', 'hour_volume_vol_diff', 'daily_volume_vol_diff', 'roc', 'hour_vol_diff_pct', 'price7', 'daily_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'price_10DDiff', 'return_vol_10D', 'volume_vol_240M', 'return_vol_5D']
+208.64 40.38
+
+BFP_1d_temporal_simulation_6
+['range_vol_diff5', 'min_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'price_25DDiff', 'v_diff_pct', 'threeD_stddev50', 'close_diff_deviation3', 'return_vol_240M', 'close_diff5', 'daily_volume_vol_diff_pct30', 'threeD_returns_close', 'return_vol_8H', 'roc_diff', 'close_diff3', 'close_diff_deviation', 'SPY_diff', 'min_vol_diff_pct', 'rsi5', 'hour_volume_vol_diff_pct', 'hour_volume_vol_diff', 'hour', 'rsi', 'close_diff', 'volume_vol_16H', 'min_volume_vol_diff', 'volume_vol_450M', 'min_vol_diff']
+206.46 40.42
+
+BFP_1d_temporal_simulation_7
+['price_10DDiff', 'hour', 'roc5', 'SPY_diff', 'volume_vol_30D', 'SPY_1D', 'threeD_stddev50', 'daily_volume_vol_diff_pct', 'close_diff', 'threeD_returns_close', 'volume_vol_8H', 'hour_volume_vol_diff', 'min_vol_diff_pct', 'min_volume_vol_diff_pct', 'v_diff_pct', 'hour_vol_diff', 'daily_volume_vol_diff', 'rsi3', 'volume_vol_240M', 'close_diff_deviation', 'volume_vol_450M', 'day_of_week', 'price7', 'adx', 'return_vol_16H', 'daily_vol_diff30', 'close_diff5']
+209.4 42.26
+
+BFP_1d_temporal_simulation_8
+['daily_vol_diff30', 'volume_vol_240M', 'volume_vol_450M', 'volume_vol_16H', 'rsi', 'rsi5', 'threeD_stddev50', 'volume_vol_5D', 'close_diff5', 'day_of_week', 'SPY_diff3', 'hour', 'cmf', 'daily_volume_vol_diff', 'hour_vol_diff', 'range_vol', 'oneD_stddev50', 'daily_vol_diff_pct30', 'roc', 'volume_vol_8H', 'daily_vol_diff', 'return_vol_450M', 'return_vol_5D', 'SPY_3D', 'price_10DDiff']
+213.52 39.02
+
+BFP_1d_temporal_simulation_9
+['day_of_week', 'price_25DDiff', 'volume_vol_240M', 'range_vol_diff5', 'daily_vol_diff', 'close_diff', 'v_diff_pct', 'roc3', 'return_vol_16H', 'roc', 'return_vol_30D', 'range_vol', 'SPY_diff', 'hour_vol_diff', 'return_vol_10D', 'volume_vol_450M', 'close_diff3', 'rsi3', 'month', 'hour_volume_vol_diff', 'rsi']
+204.42 43.3
+
+BFP_1d_temporal_simulation_10
+['SPY_diff', 'daily_vol_diff', 'daily_volume_vol_diff30', 'rsi3', 'range_vol_diff5', 'daily_vol_diff30', 'daily_volume_vol_diff_pct30', 'close_diff_deviation3', 'threeD_returns_close', 'roc', 'volume_vol_240M', 'SPY_1D', 'roc5', 'range_vol', 'day_of_month', 'close_diff5', 'rsi5', 'volume_vol_16H', 'hour_vol_diff_pct', 'return_vol_30D', 'volume_vol_10D', 'return_vol_16H', 'price7', 'rsi', 'day_of_week', 'SPY_3D', 'cmf', 'adx', 'SPY_diff3', 'volume_vol_450M', 'v_diff_pct', 'min_volume_vol_diff_pct', 'close_diff_deviation']
+207.54 37.0
+
+BFP_1d_temporal_simulation_11
+['v_diff_pct', 'volume_vol_5D', 'volume_vol_8H', 'min_vol_diff_pct', 'return_vol_8H', 'volume_vol_450M', 'return_vol_30D', 'price7', 'roc_diff', 'hour_vol_diff', 'return_vol_5D', 'oneD_stddev50', 'oneD_returns_close', 'day_of_week', 'close_diff5', 'rsi3', 'daily_volume_vol_diff30', 'return_vol_10D', 'return_vol_16H', 'daily_vol_diff', 'rsi', 'SPY_diff3', 'adx', 'hour_volume_vol_diff', 'volume_vol_10D']
+199.7 36.44
+
+BFP_1d_temporal_simulation_12
+['return_vol_8H', 'daily_volume_vol_diff_pct', 'daily_vol_diff30', 'min_volume_vol_diff', 'volume_vol_5D', 'volume_vol_8H', 'SPY_diff3', 'oneD_stddev50', 'min_vol_diff_pct', 'return_vol_450M', 'SPY_1D', 'adx', 'volume_vol_30D', 'day_of_month', 'return_vol_16H', 'hour_volume_vol_diff', 'range_vol_diff5', 'close_diff3', 'daily_volume_vol_diff_pct30', 'price_25DDiff', 'rsi', 'daily_volume_vol_diff30', 'roc_diff', 'daily_vol_diff']
+208.78 38.52
+
+BFP_1d_temporal_simulation_13
+['rsi', 'month', 'cmf', 'volume_vol_30D', 'hour', 'threeD_stddev50', 'SPY_diff', 'hour_vol_diff_pct', 'volume_vol_16H', 'daily_vol_diff', 'range_vol_diff5', 'min_volume_vol_diff_pct', 'rsi5', 'close_diff5', 'volume_vol_240M', 'range_vol', 'daily_vol_diff_pct', 'roc3', 'close_diff3', 'price7', 'close_diff_deviation3', 'daily_volume_vol_diff', 'roc', 'volume_vol_10D', 'threeD_returns_close', 'return_vol_450M', 'price_25DDiff', 'volume_vol_450M', 'daily_vol_diff30', 'rsi3', 'hour_volume_vol_diff_pct', 'hour_volume_vol_diff', 'close_diff_deviation', 'volume_vol_8H', 'return_vol_5D', 'roc5', 'min_volume_vol_diff']
+212.9 38.14
+
+BFP_1d_temporal_simulation_14
+['rsi', 'min_volume_vol_diff_pct', 'daily_vol_diff_pct30', 'rsi3', 'price7', 'min_vol_diff', 'daily_volume_vol_diff', 'return_vol_8H', 'month', 'daily_volume_vol_diff30', 'return_vol_10D', 'SPY_3D', 'day_of_month', 'return_vol_240M', 'hour_volume_vol_diff', 'close_diff5', 'close_diff3', 'daily_vol_diff_pct', 'oneD_stddev50', 'volume_vol_10D', 'return_vol_450M', 'cmf', 'return_vol_16H', 'volume_vol_240M', 'volume_vol_5D']
+208.12 36.0
+
+BFP_1d_temporal_simulation_15
+['volume_vol_450M', 'close_diff_deviation3', 'roc', 'day_of_week', 'rsi5', 'day_of_month', 'rsi', 'daily_vol_diff', 'hour_vol_diff_pct', 'range_vol_diff5', 'return_vol_5D', 'close_diff', 'min_vol_diff_pct', 'hour', 'oneD_returns_close', 'return_vol_10D', 'daily_volume_vol_diff', 'adx', 'min_volume_vol_diff_pct', 'price7', 'SPY_3D', 'price_25DDiff', 'v_diff_pct', 'daily_vol_diff_pct30', 'hour_volume_vol_diff', 'volume_vol_30D', 'daily_volume_vol_diff30', 'threeD_returns_close', 'oneD_stddev50', 'SPY_diff', 'volume_vol_10D', 'return_vol_8H', 'volume_vol_5D', 'cmf']
+205.8 35.42
+
+BFP_1d_temporal_simulation_16
+['min_volume_vol_diff', 'price_25DDiff', 'daily_volume_vol_diff_pct', 'oneD_stddev50', 'return_vol_16H', 'v_diff_pct', 'threeD_returns_close', 'price_10DDiff', 'threeD_stddev50', 'daily_vol_diff_pct30', 'day_of_week', 'adx', 'volume_vol_240M', 'roc', 'range_vol_diff5', 'close_diff5', 'return_vol_240M', 'rsi3', 'cmf', 'hour_volume_vol_diff', 'volume_vol_16H']
+206.38 43.12
+
+BFP_1d_temporal_simulation_17
+['volume_vol_10D', 'threeD_stddev50', 'volume_vol_16H', 'roc_diff', 'price_10DDiff', 'rsi5', 'return_vol_5D', 'month', 'oneD_returns_close', 'return_vol_10D', 'volume_vol_450M', 'rsi', 'close_diff_deviation', 'daily_volume_vol_diff30', 'min_volume_vol_diff', 'daily_volume_vol_diff_pct30', 'return_vol_240M', 'daily_vol_diff30', 'roc3', 'close_diff5', 'min_vol_diff_pct', 'daily_vol_diff_pct30', 'adx', 'return_vol_450M', 'day_of_month', 'threeD_returns_close', 'hour_vol_diff', 'volume_vol_240M', 'roc', 'close_diff_deviation3', 'return_vol_8H']
+205.9 37.66
+
+BFP_1d_temporal_simulation_18
+['volume_vol_450M', 'volume_vol_30D', 'volume_vol_16H', 'return_vol_30D', 'SPY_1D', 'volume_vol_5D', 'close_diff_deviation3', 'roc_diff', 'range_vol_diff5', 'min_volume_vol_diff_pct', 'volume_vol_240M', 'SPY_diff', 'adx', 'daily_volume_vol_diff', 'threeD_returns_close', 'close_diff5', 'daily_vol_diff30', 'cmf', 'price_10DDiff', 'volume_vol_10D', 'daily_vol_diff', 'daily_vol_diff_pct', 'hour_volume_vol_diff', 'min_vol_diff']
+203.84 40.04
+
+BFP_1d_temporal_simulation_19
+['range_vol_diff5', 'min_volume_vol_diff_pct', 'min_vol_diff_pct', 'threeD_returns_close', 'hour_volume_vol_diff_pct', 'SPY_diff3', 'close_diff_deviation3', 'SPY_1D', 'rsi5', 'volume_vol_240M', 'roc5', 'min_vol_diff', 'adx', 'close_diff3', 'daily_volume_vol_diff', 'daily_volume_vol_diff30', 'volume_vol_8H', 'hour_vol_diff_pct', 'hour_vol_diff', 'rsi3', 'return_vol_16H', 'return_vol_5D', 'price_25DDiff', 'rsi', 'close_diff_deviation', 'daily_vol_diff_pct', 'close_diff', 'return_vol_240M', 'volume_vol_5D', 'daily_volume_vol_diff_pct30', 'v_diff_pct', 'price7', 'SPY_3D', 'day_of_month']
+208.58 32.76
+
+BFP_1d_temporal_simulation_20
+['roc_diff', 'close_diff', 'roc', 'threeD_stddev50', 'rsi', 'daily_volume_vol_diff', 'close_diff5', 'close_diff_deviation', 'return_vol_10D', 'daily_vol_diff_pct', 'min_volume_vol_diff_pct', 'daily_vol_diff', 'hour', 'v_diff_pct', 'SPY_1D', 'day_of_week', 'volume_vol_10D', 'threeD_returns_close', 'close_diff3', 'daily_volume_vol_diff_pct30', 'oneD_stddev50', 'oneD_returns_close', 'price_10DDiff', 'volume_vol_240M', 'daily_volume_vol_diff_pct']
+205.3 38.16
+
+BFP_1d_temporal_simulation_21
+['daily_vol_diff30', 'price7', 'hour', 'rsi', 'min_volume_vol_diff', 'roc', 'hour_vol_diff', 'SPY_diff3', 'volume_vol_450M', 'range_vol_diff5', 'volume_vol_5D', 'min_volume_vol_diff_pct', 'roc5', 'day_of_month', 'min_vol_diff_pct', 'SPY_1D', 'return_vol_8H', 'return_vol_5D', 'close_diff_deviation', 'v_diff_pct', 'volume_vol_240M', 'min_vol_diff']
+204.76 35.72
+
+BFP_1d_temporal_simulation_22
+['range_vol_diff5', 'return_vol_240M', 'close_diff_deviation', 'oneD_returns_close', 'volume_vol_450M', 'close_diff3', 'daily_vol_diff_pct', 'hour_volume_vol_diff_pct', 'daily_vol_diff', 'close_diff', 'adx', 'volume_vol_240M', 'threeD_returns_close', 'volume_vol_8H', 'hour', 'SPY_3D', 'min_volume_vol_diff', 'cmf', 'SPY_1D', 'hour_vol_diff_pct', 'month', 'volume_vol_30D', 'price7', 'daily_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'roc3', 'SPY_diff', 'daily_vol_diff30', 'range_vol', 'close_diff_deviation3', 'threeD_stddev50', 'rsi5', 'min_volume_vol_diff_pct', 'daily_volume_vol_diff', 'day_of_month', 'daily_vol_diff_pct30', 'price_10DDiff', 'volume_vol_5D', 'volume_vol_10D', 'close_diff5']
+212.48 39.78
+
+BFP_1d_temporal_simulation_23
+['price7', 'close_diff3', 'hour_volume_vol_diff', 'hour', 'roc', 'hour_vol_diff', 'close_diff5', 'close_diff_deviation3', 'return_vol_5D', 'volume_vol_10D', 'month', 'daily_volume_vol_diff_pct', 'volume_vol_450M', 'SPY_diff', 'range_vol', 'day_of_week', 'close_diff_deviation', 'return_vol_10D', 'daily_vol_diff_pct30', 'roc5', 'oneD_stddev50', 'hour_volume_vol_diff_pct', 'price_10DDiff', 'return_vol_16H', 'hour_vol_diff_pct', 'return_vol_8H']
+206.24 39.78
+
+BFP_1d_temporal_simulation_24
+['close_diff5', 'volume_vol_10D', 'hour_volume_vol_diff', 'return_vol_240M', 'v_diff_pct', 'rsi5', 'daily_volume_vol_diff_pct', 'return_vol_5D', 'roc5', 'daily_vol_diff_pct30', 'return_vol_30D', 'volume_vol_30D', 'daily_vol_diff_pct', 'hour_vol_diff_pct', 'daily_vol_diff', 'SPY_diff3', 'roc_diff', 'adx', 'range_vol', 'SPY_3D', 'roc3', 'close_diff3', 'close_diff', 'min_vol_diff', 'month', 'day_of_month', 'oneD_stddev50', 'rsi', 'rsi3', 'hour', 'volume_vol_5D', 'hour_volume_vol_diff_pct', 'close_diff_deviation']
+206.86 42.86
+
+BFP_1d_temporal_simulation_25
+['rsi5', 'rsi', 'SPY_diff3', 'roc3', 'daily_volume_vol_diff_pct30', 'hour', 'close_diff_deviation', 'day_of_week', 'oneD_returns_close', 'volume_vol_16H', 'volume_vol_450M', 'return_vol_8H', 'adx', 'daily_vol_diff_pct', 'range_vol', 'SPY_1D', 'return_vol_16H', 'min_vol_diff_pct', 'volume_vol_5D', 'price_10DDiff', 'return_vol_240M', 'close_diff_deviation3', 'return_vol_10D', 'volume_vol_240M', 'price7']
+208.84 45.0
+
+BFP_1d_temporal_simulation_26
+['price_25DDiff', 'price_10DDiff', 'month', 'daily_volume_vol_diff_pct30', 'return_vol_240M', 'hour_vol_diff', 'volume_vol_8H', 'close_diff3', 'hour', 'threeD_returns_close', 'return_vol_5D', 'threeD_stddev50', 'rsi3', 'min_volume_vol_diff_pct', 'return_vol_16H', 'roc_diff', 'volume_vol_16H', 'daily_volume_vol_diff30', 'day_of_month', 'range_vol_diff5', 'return_vol_8H', 'adx', 'volume_vol_240M', 'day_of_week', 'roc', 'daily_vol_diff30', 'price7', 'SPY_diff', 'oneD_stddev50', 'close_diff_deviation3', 'return_vol_10D', 'return_vol_30D', 'min_vol_diff_pct', 'SPY_diff3', 'SPY_1D', 'daily_volume_vol_diff']
+210.4 36.48
+
+BFP_1d_temporal_simulation_27
+['daily_vol_diff30', 'SPY_diff', 'volume_vol_30D', 'rsi', 'daily_vol_diff_pct', 'daily_volume_vol_diff_pct', 'v_diff_pct', 'cmf', 'oneD_stddev50', 'hour_volume_vol_diff', 'close_diff_deviation', 'return_vol_16H', 'range_vol', 'daily_vol_diff', 'min_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'month', 'return_vol_240M', 'close_diff_deviation3', 'return_vol_5D', 'volume_vol_5D', 'rsi5', 'close_diff5', 'volume_vol_8H', 'roc', 'daily_volume_vol_diff', 'rsi3', 'range_vol_diff5', 'price_10DDiff', 'daily_volume_vol_diff_pct30', 'roc5', 'SPY_1D']
+206.68 40.26
+
+BFP_1d_temporal_simulation_28
+['SPY_1D', 'range_vol', 'daily_volume_vol_diff_pct', 'daily_volume_vol_diff_pct30', 'return_vol_240M', 'min_vol_diff_pct', 'close_diff3', 'hour_volume_vol_diff_pct', 'return_vol_8H', 'SPY_diff3', 'volume_vol_10D', 'hour_vol_diff', 'price_25DDiff', 'roc3', 'return_vol_450M', 'roc', 'close_diff_deviation3', 'daily_volume_vol_diff30', 'range_vol_diff5', 'hour', 'price_10DDiff', 'volume_vol_5D', 'volume_vol_30D', 'return_vol_16H', 'day_of_month', 'return_vol_5D', 'volume_vol_16H', 'daily_vol_diff30']
+206.3 33.46
+
+BFP_1d_temporal_simulation_29
+['return_vol_16H', 'hour_vol_diff_pct', 'cmf', 'daily_volume_vol_diff30', 'price7', 'price_25DDiff', 'return_vol_10D', 'return_vol_8H', 'hour', 'oneD_returns_close', 'close_diff', 'roc3', 'day_of_month', 'return_vol_450M', 'range_vol_diff5', 'hour_volume_vol_diff_pct', 'rsi5', 'daily_vol_diff_pct30', 'return_vol_240M', 'return_vol_5D', 'adx', 'volume_vol_450M', 'min_volume_vol_diff', 'daily_vol_diff', 'day_of_week', 'daily_volume_vol_diff_pct30', 'volume_vol_30D', 'roc', 'range_vol', 'SPY_3D', 'close_diff_deviation', 'rsi3', 'volume_vol_10D', 'rsi', 'threeD_stddev50', 'SPY_1D', 'close_diff_deviation3']
+215.2 38.12
+
+BFP_1d_temporal_simulation_30
+['return_vol_8H', 'daily_vol_diff30', 'price_25DDiff', 'return_vol_240M', 'adx', 'cmf', 'roc_diff', 'roc3', 'volume_vol_10D', 'close_diff_deviation3', 'daily_volume_vol_diff_pct30', 'hour', 'volume_vol_8H', 'rsi3', 'rsi', 'SPY_diff', 'return_vol_16H', 'range_vol_diff5', 'rsi5', 'min_vol_diff_pct', 'SPY_1D', 'daily_vol_diff_pct', 'close_diff_deviation', 'SPY_3D', 'volume_vol_30D', 'daily_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'oneD_stddev50', 'roc5']
+208.42 40.54
+
+BFP_1d_temporal_simulation_31
+['close_diff5', 'rsi3', 'price7', 'SPY_3D', 'range_vol', 'threeD_returns_close', 'oneD_returns_close', 'close_diff', 'roc_diff', 'hour_volume_vol_diff', 'hour_volume_vol_diff_pct', 'month', 'price_10DDiff', 'daily_vol_diff_pct30', 'SPY_diff3', 'return_vol_240M', 'volume_vol_240M', 'oneD_stddev50', 'volume_vol_8H', 'daily_vol_diff', 'rsi', 'volume_vol_10D', 'roc3']
+213.32 38.18
+
+BFP_1d_temporal_simulation_32
+['price_25DDiff', 'daily_vol_diff_pct', 'volume_vol_240M', 'hour_volume_vol_diff', 'price7', 'close_diff5', 'rsi3', 'daily_volume_vol_diff30', 'min_volume_vol_diff', 'SPY_3D', 'adx', 'daily_volume_vol_diff_pct', 'SPY_diff3', 'day_of_week', 'return_vol_16H', 'rsi', 'roc_diff', 'SPY_1D', 'range_vol', 'daily_volume_vol_diff', 'threeD_stddev50', 'volume_vol_10D', 'day_of_month', 'threeD_returns_close', 'close_diff_deviation3', 'price_10DDiff', 'daily_volume_vol_diff_pct30', 'rsi5', 'hour_vol_diff', 'daily_vol_diff30', 'volume_vol_16H', 'roc', 'close_diff3', 'oneD_returns_close', 'return_vol_30D', 'min_vol_diff', 'volume_vol_5D', 'return_vol_10D', 'v_diff_pct', 'daily_vol_diff_pct30']
+210.88 38.14
+
+BFP_1d_temporal_simulation_33
+['volume_vol_450M', 'volume_vol_5D', 'price7', 'roc_diff', 'min_volume_vol_diff_pct', 'hour_volume_vol_diff_pct', 'threeD_stddev50', 'SPY_diff', 'range_vol_diff5', 'SPY_1D', 'daily_vol_diff', 'roc3', 'close_diff3', 'volume_vol_10D', 'return_vol_5D', 'daily_vol_diff_pct30', 'daily_vol_diff_pct', 'return_vol_30D', 'min_vol_diff_pct', 'return_vol_8H', 'close_diff5', 'cmf', 'price_10DDiff', 'hour', 'daily_volume_vol_diff30', 'volume_vol_30D', 'month', 'close_diff_deviation3', 'rsi5', 'v_diff_pct', 'daily_volume_vol_diff', 'hour_vol_diff_pct', 'day_of_week', 'rsi3', 'daily_volume_vol_diff_pct30', 'rsi']
+208.72 36.64
+
+BFP_1d_temporal_simulation_34
+['daily_vol_diff30', 'min_vol_diff_pct', 'volume_vol_5D', 'daily_volume_vol_diff_pct', 'return_vol_450M', 'min_volume_vol_diff', 'close_diff3', 'month', 'daily_vol_diff_pct30', 'v_diff_pct', 'volume_vol_8H', 'close_diff', 'hour', 'volume_vol_10D', 'volume_vol_240M', 'return_vol_10D', 'day_of_month', 'rsi5', 'range_vol', 'daily_vol_diff', 'return_vol_8H', 'roc5', 'SPY_3D', 'roc3', 'price_10DDiff', 'hour_volume_vol_diff_pct', 'threeD_returns_close', 'price_25DDiff', 'roc', 'hour_vol_diff', 'close_diff_deviation', 'cmf', 'oneD_returns_close', 'return_vol_16H', 'close_diff5', 'SPY_1D', 'min_volume_vol_diff_pct', 'daily_volume_vol_diff', 'volume_vol_450M', 'return_vol_30D']
+212.4 38.38
+
+BFP_1d_temporal_simulation_35
+['hour_volume_vol_diff', 'price7', 'volume_vol_450M', 'volume_vol_30D', 'min_volume_vol_diff', 'SPY_diff', 'range_vol', 'return_vol_5D', 'price_10DDiff', 'roc3', 'volume_vol_240M', 'oneD_returns_close', 'hour_vol_diff_pct', 'roc', 'SPY_3D', 'hour_volume_vol_diff_pct', 'min_volume_vol_diff_pct', 'daily_vol_diff30', 'close_diff3', 'volume_vol_10D', 'month', 'day_of_week', 'close_diff_deviation', 'threeD_stddev50', 'daily_vol_diff_pct30', 'return_vol_450M', 'min_vol_diff_pct', 'close_diff5', 'price_25DDiff', 'daily_volume_vol_diff_pct', 'oneD_stddev50', 'daily_volume_vol_diff', 'daily_volume_vol_diff30', 'rsi', 'return_vol_16H', 'daily_volume_vol_diff_pct30', 'rsi3']
+215.5 41.12
+
+BFP_1d_temporal_simulation_36
+['SPY_1D', 'volume_vol_5D', 'rsi', 'hour', 'close_diff3', 'close_diff5', 'SPY_diff', 'volume_vol_30D', 'daily_volume_vol_diff', 'volume_vol_450M', 'day_of_month', 'price7', 'roc3', 'return_vol_8H', 'daily_vol_diff30', 'hour_vol_diff_pct', 'hour_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'daily_vol_diff', 'min_vol_diff', 'return_vol_450M', 'min_volume_vol_diff', 'close_diff_deviation3', 'roc', 'min_vol_diff_pct', 'SPY_3D', 'return_vol_240M', 'daily_volume_vol_diff_pct', 'return_vol_16H']
+214.42 33.52
+
+BFP_1d_temporal_simulation_37
+['roc5', 'threeD_stddev50', 'SPY_diff', 'min_volume_vol_diff', 'close_diff_deviation', 'close_diff_deviation3', 'volume_vol_8H', 'day_of_month', 'range_vol_diff5', 'daily_volume_vol_diff_pct', 'close_diff3', 'daily_vol_diff', 'roc', 'min_vol_diff', 'volume_vol_450M', 'daily_vol_diff_pct', 'price_25DDiff', 'day_of_week', 'month', 'v_diff_pct']
+211.12 31.86
+
+BFP_1d_temporal_simulation_38
+['daily_vol_diff30', 'price_10DDiff', 'oneD_stddev50', 'hour_vol_diff', 'rsi3', 'daily_vol_diff_pct30', 'return_vol_16H', 'SPY_3D', 'volume_vol_8H', 'min_vol_diff_pct', 'rsi', 'daily_vol_diff_pct', 'close_diff3', 'min_volume_vol_diff', 'return_vol_450M', 'SPY_1D', 'return_vol_5D', 'roc5', 'month', 'daily_volume_vol_diff_pct']
+214.56 37.14
+
+BFP_1d_temporal_simulation_39
+['volume_vol_240M', 'close_diff', 'volume_vol_16H', 'volume_vol_30D', 'return_vol_450M', 'day_of_month', 'roc', 'daily_volume_vol_diff_pct30', 'adx', 'hour_vol_diff', 'threeD_returns_close', 'close_diff5', 'return_vol_8H', 'min_volume_vol_diff', 'threeD_stddev50', 'return_vol_16H', 'close_diff3', 'hour_vol_diff_pct', 'price_10DDiff', 'return_vol_10D', 'rsi5', 'daily_vol_diff30', 'roc5', 'hour_volume_vol_diff_pct', 'min_vol_diff', 'daily_volume_vol_diff_pct', 'oneD_returns_close', 'close_diff_deviation', 'v_diff_pct', 'roc_diff']
+203.42 37.22
+
+BFP_1d_temporal_simulation_40
+['daily_vol_diff_pct', 'oneD_returns_close', 'daily_vol_diff30', 'threeD_returns_close', 'roc3', 'roc_diff', 'return_vol_10D', 'hour_vol_diff_pct', 'SPY_1D', 'price7', 'daily_vol_diff_pct30', 'hour_vol_diff', 'min_vol_diff', 'roc', 'rsi3', 'month', 'price_25DDiff', 'oneD_stddev50', 'cmf', 'hour_volume_vol_diff', 'daily_volume_vol_diff_pct', 'hour', 'volume_vol_10D', 'day_of_week', 'volume_vol_5D', 'close_diff5', 'price_10DDiff', 'return_vol_30D', 'close_diff', 'range_vol_diff5', 'min_volume_vol_diff_pct', 'close_diff3', 'daily_volume_vol_diff', 'v_diff_pct', 'min_volume_vol_diff', 'roc5', 'range_vol', 'return_vol_5D', 'volume_vol_240M', 'rsi5']
+209.32 39.2
+
+BFP_1d_temporal_simulation_41
+['hour', 'return_vol_240M', 'roc3', 'rsi3', 'close_diff_deviation', 'min_volume_vol_diff_pct', 'rsi5', 'roc5', 'threeD_returns_close', 'oneD_returns_close', 'day_of_week', 'volume_vol_240M', 'return_vol_10D', 'hour_volume_vol_diff_pct', 'range_vol', 'v_diff_pct', 'min_vol_diff_pct', 'SPY_diff', 'return_vol_450M', 'daily_volume_vol_diff_pct30', 'month', 'close_diff5', 'roc_diff', 'daily_volume_vol_diff', 'hour_vol_diff_pct', 'roc', 'volume_vol_10D', 'price_25DDiff', 'return_vol_16H', 'min_volume_vol_diff', 'min_vol_diff', 'daily_volume_vol_diff30', 'hour_vol_diff', 'close_diff3', 'return_vol_5D', 'SPY_1D', 'daily_volume_vol_diff_pct', 'price_10DDiff', 'range_vol_diff5']
+208.74 40.84
+
+BFP_1d_temporal_simulation_42
+['threeD_returns_close', 'min_volume_vol_diff_pct', 'threeD_stddev50', 'daily_volume_vol_diff_pct30', 'daily_volume_vol_diff30', 'SPY_diff3', 'volume_vol_30D', 'daily_vol_diff_pct30', 'volume_vol_240M', 'close_diff5', 'daily_volume_vol_diff_pct', 'return_vol_5D', 'volume_vol_16H', 'return_vol_16H', 'hour_vol_diff', 'close_diff_deviation', 'day_of_week', 'roc3', 'roc5', 'min_vol_diff_pct', 'daily_vol_diff', 'SPY_3D', 'daily_vol_diff30', 'volume_vol_5D', 'close_diff', 'volume_vol_450M', 'range_vol', 'price_25DDiff', 'close_diff3', 'hour_volume_vol_diff', 'v_diff_pct', 'month', 'price7', 'min_volume_vol_diff', 'rsi3', 'SPY_diff', 'close_diff_deviation3']
+211.74 39.0
+
+BFP_1d_temporal_simulation_43
+['daily_volume_vol_diff_pct30', 'return_vol_10D', 'hour_volume_vol_diff_pct', 'daily_vol_diff30', 'return_vol_30D', 'close_diff5', 'volume_vol_30D', 'SPY_diff', 'close_diff', 'SPY_3D', 'v_diff_pct', 'volume_vol_8H', 'rsi3', 'threeD_returns_close', 'close_diff3', 'cmf', 'min_vol_diff', 'day_of_week', 'return_vol_16H', 'roc3', 'daily_volume_vol_diff_pct', 'volume_vol_240M', 'hour_volume_vol_diff', 'rsi5', 'SPY_1D', 'return_vol_450M', 'min_vol_diff_pct', 'hour_vol_diff', 'price_10DDiff', 'close_diff_deviation', 'month']
+208.22 34.9
+
+BFP_1d_temporal_simulation_44
+['range_vol_diff5', 'oneD_returns_close', 'daily_vol_diff', 'return_vol_30D', 'rsi5', 'threeD_stddev50', 'close_diff5', 'return_vol_450M', 'min_volume_vol_diff', 'price_25DDiff', 'daily_volume_vol_diff_pct30', 'volume_vol_8H', 'close_diff_deviation3', 'hour_vol_diff', 'hour_vol_diff_pct', 'range_vol', 'volume_vol_240M', 'close_diff', 'min_vol_diff', 'return_vol_240M', 'volume_vol_450M', 'min_volume_vol_diff_pct', 'volume_vol_10D', 'rsi']
+211.42 39.76
+
+BFP_1d_temporal_simulation_45
+['volume_vol_30D', 'daily_vol_diff_pct30', 'hour_volume_vol_diff', 'return_vol_30D', 'oneD_stddev50', 'v_diff_pct', 'daily_vol_diff', 'return_vol_450M', 'oneD_returns_close', 'rsi5', 'price_10DDiff', 'SPY_diff', 'rsi', 'SPY_diff3', 'close_diff5', 'SPY_1D', 'min_vol_diff', 'daily_volume_vol_diff30', 'return_vol_240M', 'range_vol_diff5', 'daily_volume_vol_diff_pct', 'hour_volume_vol_diff_pct', 'hour_vol_diff', 'daily_volume_vol_diff', 'return_vol_10D', 'return_vol_5D', 'close_diff3', 'price7', 'close_diff_deviation3', 'threeD_returns_close']
+204.78 40.3
+
+BFP_1d_temporal_simulation_46
+['month', 'close_diff', 'hour_vol_diff_pct', 'volume_vol_30D', 'daily_volume_vol_diff', 'daily_vol_diff30', 'volume_vol_10D', 'range_vol', 'rsi3', 'min_volume_vol_diff', 'return_vol_240M', 'return_vol_30D', 'close_diff5', 'threeD_returns_close', 'volume_vol_450M', 'return_vol_10D', 'roc3', 'SPY_diff3', 'daily_volume_vol_diff30', 'daily_volume_vol_diff_pct30', 'hour_vol_diff', 'oneD_returns_close']
+202.32 34.54
+
+BFP_1d_temporal_simulation_47
+['month', 'volume_vol_240M', 'return_vol_450M', 'hour_vol_diff_pct', 'hour_vol_diff', 'price_25DDiff', 'SPY_1D', 'range_vol', 'oneD_returns_close', 'min_vol_diff_pct', 'daily_volume_vol_diff_pct', 'threeD_returns_close', 'price7', 'return_vol_5D', 'volume_vol_8H', 'SPY_diff', 'cmf', 'daily_vol_diff', 'daily_vol_diff_pct30', 'volume_vol_30D', 'close_diff_deviation3', 'range_vol_diff5', 'roc_diff', 'SPY_diff3', 'volume_vol_10D', 'v_diff_pct', 'close_diff_deviation', 'daily_volume_vol_diff', 'return_vol_8H', 'roc5', 'close_diff3', 'adx', 'return_vol_10D', 'SPY_3D', 'close_diff']
+216.5 39.88
+
+BFP_1d_temporal_simulation_48
+['daily_volume_vol_diff_pct30', 'min_vol_diff', 'hour_vol_diff', 'oneD_returns_close', 'rsi3', 'close_diff5', 'cmf', 'close_diff', 'oneD_stddev50', 'SPY_3D', 'range_vol', 'roc5', 'daily_vol_diff_pct', 'min_volume_vol_diff_pct', 'SPY_1D', 'daily_vol_diff_pct30', 'close_diff_deviation', 'daily_volume_vol_diff', 'v_diff_pct', 'threeD_returns_close', 'rsi5', 'volume_vol_8H', 'roc3', 'price7', 'volume_vol_240M', 'adx', 'min_vol_diff_pct', 'roc', 'return_vol_5D', 'min_volume_vol_diff', 'roc_diff', 'day_of_week', 'threeD_stddev50', 'rsi', 'close_diff_deviation3', 'SPY_diff', 'SPY_diff3', 'daily_vol_diff', 'volume_vol_5D']
+208.72 40.32
+
+BFP_1d_temporal_simulation_49
+['daily_vol_diff', 'month', 'rsi3', 'range_vol', 'oneD_stddev50', 'hour_vol_diff', 'daily_volume_vol_diff_pct30', 'close_diff3', 'volume_vol_10D', 'hour_volume_vol_diff_pct', 'close_diff5', 'range_vol_diff5', 'volume_vol_16H', 'roc5', 'volume_vol_240M', 'SPY_diff', 'return_vol_240M', 'v_diff_pct', 'rsi', 'daily_vol_diff30', 'roc', 'SPY_1D', 'hour_volume_vol_diff', 'close_diff_deviation3', 'daily_volume_vol_diff30', 'return_vol_5D', 'daily_vol_diff_pct30', 'hour_vol_diff_pct', 'rsi5', 'day_of_week', 'return_vol_30D', 'cmf', 'SPY_3D', 'min_volume_vol_diff_pct', 'return_vol_450M', 'close_diff', 'roc_diff', 'hour', 'volume_vol_5D', 'return_vol_10D']
+213.42 39.24
+
+BFP_1d_temporal_simulation_50
+['hour_vol_diff', 'return_vol_10D', 'return_vol_30D', 'close_diff3', 'v_diff_pct', 'price_25DDiff', 'SPY_1D', 'min_volume_vol_diff', 'min_volume_vol_diff_pct', 'volume_vol_8H', 'volume_vol_30D', 'rsi', 'SPY_3D', 'day_of_month', 'rsi5', 'daily_vol_diff', 'oneD_returns_close', 'daily_vol_diff_pct30', 'month', 'hour_volume_vol_diff', 'SPY_diff3', 'daily_vol_diff30', 'oneD_stddev50', 'roc3']
+210.02 35.16
+
+BFP_1d_temporal_simulation_51
+['month', 'SPY_diff3', 'roc', 'volume_vol_240M', 'v_diff_pct', 'adx', 'roc_diff', 'hour_vol_diff_pct', 'oneD_stddev50', 'return_vol_30D', 'cmf', 'min_vol_diff_pct', 'price_10DDiff', 'close_diff3', 'day_of_week', 'rsi5', 'SPY_1D', 'daily_volume_vol_diff30', 'volume_vol_30D', 'price_25DDiff', 'volume_vol_450M', 'range_vol', 'return_vol_450M', 'return_vol_5D', 'min_volume_vol_diff', 'min_volume_vol_diff_pct', 'daily_vol_diff', 'daily_vol_diff_pct30', 'roc5', 'volume_vol_8H', 'daily_volume_vol_diff_pct30', 'close_diff5', 'daily_vol_diff_pct', 'min_vol_diff']
+215.04 40.24
+
+BFP_1d_temporal_simulation_52
+['rsi3', 'price7', 'return_vol_450M', 'close_diff_deviation', 'hour_volume_vol_diff_pct', 'daily_vol_diff_pct30', 'price_10DDiff', 'threeD_stddev50', 'SPY_3D', 'daily_volume_vol_diff_pct30', 'day_of_month', 'return_vol_16H', 'v_diff_pct', 'daily_vol_diff_pct', 'close_diff3', 'volume_vol_450M', 'min_volume_vol_diff', 'price_25DDiff', 'volume_vol_30D', 'range_vol_diff5', 'daily_vol_diff30', 'volume_vol_5D', 'hour_volume_vol_diff', 'cmf', 'min_vol_diff', 'rsi']
+209.44 29.92
+
+BFP_1d_temporal_simulation_53
+['close_diff', 'daily_volume_vol_diff_pct', 'oneD_returns_close', 'return_vol_8H', 'roc', 'daily_volume_vol_diff_pct30', 'rsi3', 'volume_vol_30D', 'min_volume_vol_diff_pct', 'return_vol_30D', 'volume_vol_8H', 'daily_vol_diff30', 'price_10DDiff', 'hour_volume_vol_diff_pct', 'daily_volume_vol_diff30', 'range_vol_diff5', 'min_volume_vol_diff', 'oneD_stddev50', 'min_vol_diff', 'SPY_diff', 'month', 'rsi5', 'return_vol_5D', 'price7', 'close_diff_deviation3', 'SPY_diff3', 'hour_volume_vol_diff', 'volume_vol_10D', 'close_diff_deviation', 'return_vol_450M', 'roc_diff', 'daily_vol_diff_pct30', 'daily_vol_diff_pct', 'hour', 'hour_vol_diff', 'return_vol_16H', 'day_of_month']
+207.4 38.96
+
+BFP_1d_temporal_simulation_54
+['SPY_1D', 'close_diff5', 'return_vol_10D', 'hour_volume_vol_diff_pct', 'volume_vol_8H', 'day_of_month', 'adx', 'range_vol', 'daily_volume_vol_diff30', 'roc3', 'close_diff', 'hour', 'daily_vol_diff_pct', 'return_vol_8H', 'price_25DDiff', 'SPY_diff', 'daily_vol_diff30', 'oneD_stddev50', 'min_volume_vol_diff_pct', 'price_10DDiff', 'volume_vol_16H', 'price7', 'threeD_returns_close', 'rsi3', 'return_vol_450M', 'daily_vol_diff_pct30']
+207.3 37.9
+
+BFP_1d_temporal_simulation_55
+['volume_vol_450M', 'return_vol_5D', 'min_volume_vol_diff_pct', 'range_vol_diff5', 'volume_vol_16H', 'SPY_diff3', 'roc5', 'min_volume_vol_diff', 'rsi', 'return_vol_30D', 'threeD_stddev50', 'daily_vol_diff_pct30', 'adx', 'return_vol_450M', 'min_vol_diff', 'daily_volume_vol_diff30', 'cmf', 'threeD_returns_close', 'daily_vol_diff', 'price7', 'volume_vol_5D', 'hour_vol_diff_pct', 'daily_volume_vol_diff_pct30', 'hour', 'close_diff_deviation3', 'volume_vol_8H', 'rsi5', 'rsi3', 'roc_diff', 'daily_volume_vol_diff', 'month', 'volume_vol_240M', 'volume_vol_30D', 'daily_volume_vol_diff_pct']
+210.74 40.04
+
+BFP_1d_temporal_simulation_56
+['return_vol_16H', 'volume_vol_10D', 'oneD_returns_close', 'roc', 'return_vol_240M', 'daily_vol_diff30', 'roc3', 'min_vol_diff', 'threeD_stddev50', 'return_vol_30D', 'daily_volume_vol_diff', 'day_of_week', 'day_of_month', 'volume_vol_16H', 'SPY_1D', 'threeD_returns_close', 'min_volume_vol_diff', 'min_volume_vol_diff_pct', 'volume_vol_8H', 'close_diff5', 'close_diff_deviation', 'daily_volume_vol_diff30', 'v_diff_pct', 'adx', 'daily_vol_diff', 'close_diff', 'close_diff_deviation3', 'SPY_3D']
+208.14 33.28
+
+BFP_1d_temporal_simulation_57
+['daily_volume_vol_diff_pct', 'min_volume_vol_diff', 'roc5', 'adx', 'close_diff', 'volume_vol_8H', 'month', 'return_vol_30D', 'SPY_1D', 'daily_vol_diff', 'close_diff5', 'volume_vol_16H', 'close_diff_deviation3', 'return_vol_240M', 'volume_vol_30D', 'price_25DDiff', 'day_of_month', 'min_volume_vol_diff_pct', 'min_vol_diff_pct', 'volume_vol_5D', 'price7', 'oneD_stddev50', 'roc_diff', 'return_vol_16H', 'volume_vol_10D', 'daily_vol_diff_pct30', 'return_vol_10D', 'hour_vol_diff', 'hour', 'threeD_returns_close', 'rsi', 'hour_vol_diff_pct', 'range_vol_diff5', 'daily_vol_diff_pct', 'roc', 'daily_volume_vol_diff30']
+210.12 37.62
+
+BFP_1d_temporal_simulation_58
+['daily_vol_diff_pct', 'range_vol_diff5', 'min_vol_diff', 'return_vol_30D', 'hour_volume_vol_diff', 'return_vol_5D', 'close_diff_deviation3', 'SPY_diff', 'SPY_diff3', 'volume_vol_450M', 'price_10DDiff', 'oneD_returns_close', 'range_vol', 'daily_vol_diff30', 'rsi3', 'close_diff3', 'hour_volume_vol_diff_pct', 'return_vol_8H', 'threeD_stddev50', 'daily_volume_vol_diff_pct30', 'price7', 'volume_vol_16H', 'return_vol_450M', 'volume_vol_10D', 'close_diff_deviation', 'roc_diff']
+211.44 41.12
+
+BFP_1d_temporal_simulation_59
+['close_diff3', 'rsi', 'month', 'daily_vol_diff_pct30', 'hour', 'day_of_week', 'return_vol_450M', 'hour_vol_diff', 'return_vol_5D', 'SPY_diff', 'cmf', 'range_vol', 'rsi5', 'volume_vol_30D', 'close_diff_deviation', 'volume_vol_5D', 'min_vol_diff_pct', 'adx', 'volume_vol_8H', 'min_volume_vol_diff', 'roc3', 'daily_volume_vol_diff_pct', 'close_diff_deviation3', 'oneD_stddev50', 'volume_vol_10D', 'close_diff5', 'volume_vol_450M', 'daily_volume_vol_diff30', 'threeD_stddev50', 'return_vol_8H', 'range_vol_diff5', 'rsi3', 'roc5', 'day_of_month', 'close_diff']
+214.94 42.52
+
+BFP_1d_temporal_simulation_60
+['return_vol_240M', 'threeD_stddev50', 'SPY_1D', 'daily_vol_diff_pct', 'cmf', 'roc', 'v_diff_pct', 'threeD_returns_close', 'month', 'volume_vol_5D', 'min_vol_diff_pct', 'price_10DDiff', 'volume_vol_8H', 'roc_diff', 'roc5', 'close_diff_deviation', 'min_volume_vol_diff_pct', 'volume_vol_240M', 'range_vol', 'SPY_diff', 'close_diff5', 'close_diff_deviation3', 'range_vol_diff5', 'return_vol_8H', 'oneD_returns_close', 'close_diff', 'return_vol_10D', 'volume_vol_16H', 'hour_volume_vol_diff', 'hour', 'SPY_diff3', 'return_vol_5D', 'oneD_stddev50', 'price7', 'volume_vol_10D']
+213.8 42.14
+
+BFP_1d_temporal_simulation_61
+['close_diff_deviation3', 'hour', 'return_vol_10D', 'daily_vol_diff_pct', 'min_vol_diff_pct', 'hour_vol_diff', 'daily_vol_diff30', 'roc', 'volume_vol_30D', 'roc5', 'min_vol_diff', 'volume_vol_10D', 'hour_volume_vol_diff_pct', 'min_volume_vol_diff_pct', 'close_diff_deviation', 'oneD_returns_close', 'range_vol_diff5', 'return_vol_5D', 'daily_volume_vol_diff_pct', 'threeD_returns_close', 'min_volume_vol_diff', 'day_of_week', 'adx', 'hour_vol_diff_pct', 'daily_volume_vol_diff', 'SPY_3D', 'volume_vol_16H', 'volume_vol_8H', 'v_diff_pct', 'close_diff3', 'day_of_month', 'volume_vol_450M', 'cmf', 'SPY_diff3', 'close_diff5', 'return_vol_16H', 'price7']
+205.9 35.9
+
+BFP_1d_temporal_simulation_62
+['daily_volume_vol_diff_pct30', 'daily_vol_diff', 'rsi', 'v_diff_pct', 'min_vol_diff', 'close_diff_deviation', 'return_vol_30D', 'rsi3', 'volume_vol_10D', 'min_vol_diff_pct', 'roc3', 'day_of_month', 'oneD_stddev50', 'range_vol', 'return_vol_16H', 'volume_vol_240M', 'threeD_returns_close', 'day_of_week', 'min_volume_vol_diff_pct', 'roc', 'month', 'cmf', 'roc5', 'return_vol_10D', 'daily_vol_diff_pct', 'oneD_returns_close', 'close_diff3', 'price7', 'price_25DDiff', 'daily_vol_diff30', 'SPY_diff', 'daily_volume_vol_diff_pct']
+209.2 43.9
+
+BFP_1d_temporal_simulation_63
+['hour_volume_vol_diff_pct', 'daily_vol_diff_pct30', 'volume_vol_30D', 'roc_diff', 'day_of_week', 'SPY_3D', 'volume_vol_5D', 'close_diff', 'SPY_diff', 'return_vol_5D', 'price7', 'min_vol_diff_pct', 'price_10DDiff', 'hour_vol_diff', 'hour_volume_vol_diff', 'close_diff_deviation', 'rsi3', 'daily_volume_vol_diff30', 'month', 'min_volume_vol_diff', 'oneD_stddev50', 'min_volume_vol_diff_pct', 'rsi5', 'volume_vol_240M', 'min_vol_diff', 'threeD_returns_close']
+209.88 36.42
+
+BFP_1d_temporal_simulation_64
+['volume_vol_240M', 'roc3', 'range_vol', 'close_diff_deviation3', 'close_diff5', 'hour_volume_vol_diff_pct', 'range_vol_diff5', 'day_of_week', 'month', 'volume_vol_450M', 'cmf', 'threeD_stddev50', 'hour_volume_vol_diff', 'min_vol_diff_pct', 'volume_vol_8H', 'hour', 'price_10DDiff', 'roc', 'daily_volume_vol_diff30', 'return_vol_10D', 'v_diff_pct', 'return_vol_30D', 'price7', 'SPY_3D', 'oneD_returns_close', 'close_diff', 'volume_vol_30D', 'SPY_1D', 'price_25DDiff', 'roc5', 'return_vol_5D', 'min_vol_diff', 'daily_volume_vol_diff_pct30', 'return_vol_8H', 'daily_volume_vol_diff_pct', 'daily_vol_diff30', 'rsi', 'return_vol_16H', 'hour_vol_diff_pct']
+213.94 38.7
+
+BFP_1d_temporal_simulation_65
+['threeD_stddev50', 'min_vol_diff', 'return_vol_450M', 'daily_vol_diff30', 'close_diff3', 'return_vol_8H', 'hour_vol_diff', 'daily_vol_diff', 'v_diff_pct', 'volume_vol_450M', 'return_vol_30D', 'range_vol', 'close_diff5', 'daily_vol_diff_pct', 'roc', 'volume_vol_30D', 'oneD_stddev50', 'volume_vol_16H', 'rsi', 'price_25DDiff', 'threeD_returns_close', 'close_diff_deviation', 'min_vol_diff_pct', 'daily_volume_vol_diff_pct', 'close_diff_deviation3', 'SPY_1D', 'SPY_3D', 'roc5', 'min_volume_vol_diff_pct', 'SPY_diff', 'day_of_month', 'cmf', 'adx', 'daily_volume_vol_diff30', 'rsi3']
+211.0 33.66
+
+BFP_1d_temporal_simulation_66
+['volume_vol_10D', 'return_vol_16H', 'price7', 'price_10DDiff', 'roc5', 'daily_vol_diff_pct', 'daily_volume_vol_diff30', 'cmf', 'daily_vol_diff', 'volume_vol_5D', 'volume_vol_16H', 'SPY_diff3', 'v_diff_pct', 'volume_vol_450M', 'rsi5', 'hour_volume_vol_diff_pct', 'close_diff3', 'day_of_month', 'threeD_stddev50', 'daily_vol_diff_pct30', 'range_vol_diff5', 'close_diff', 'min_vol_diff', 'return_vol_5D', 'day_of_week', 'return_vol_10D', 'roc3', 'daily_vol_diff30', 'close_diff5']
+208.4 37.34
+
+BFP_1d_temporal_simulation_67
+['hour_vol_diff', 'hour_volume_vol_diff', 'oneD_returns_close', 'rsi5', 'rsi3', 'close_diff_deviation3', 'hour_vol_diff_pct', 'SPY_1D', 'price_10DDiff', 'return_vol_5D', 'volume_vol_5D', 'return_vol_240M', 'oneD_stddev50', 'roc5', 'return_vol_450M', 'price7', 'cmf', 'volume_vol_450M', 'daily_vol_diff', 'daily_vol_diff_pct30', 'close_diff3', 'adx', 'volume_vol_30D', 'range_vol_diff5', 'threeD_returns_close', 'roc_diff', 'return_vol_30D', 'min_vol_diff_pct', 'day_of_week', 'volume_vol_10D', 'roc', 'min_volume_vol_diff_pct', 'daily_volume_vol_diff_pct', 'SPY_diff', 'SPY_diff3', 'return_vol_8H', 'volume_vol_16H', 'volume_vol_8H']
+206.28 40.76
+
+BFP_1d_temporal_simulation_68
+['close_diff_deviation3', 'min_volume_vol_diff', 'rsi5', 'return_vol_8H', 'month', 'daily_vol_diff_pct30', 'volume_vol_30D', 'range_vol', 'adx', 'volume_vol_10D', 'min_vol_diff', 'SPY_diff3', 'threeD_stddev50', 'SPY_diff', 'hour_volume_vol_diff_pct', 'return_vol_5D', 'return_vol_10D', 'daily_volume_vol_diff', 'return_vol_16H', 'return_vol_30D', 'daily_vol_diff30', 'close_diff5', 'volume_vol_240M']
+203.48 39.46
+
+BFP_1d_temporal_simulation_69
+['hour_vol_diff_pct', 'daily_volume_vol_diff30', 'min_volume_vol_diff_pct', 'volume_vol_5D', 'close_diff3', 'adx', 'hour_vol_diff', 'daily_vol_diff', 'min_vol_diff_pct', 'price7', 'cmf', 'daily_volume_vol_diff_pct', 'close_diff5', 'close_diff', 'min_vol_diff', 'threeD_stddev50', 'SPY_3D', 'day_of_week', 'volume_vol_450M', 'return_vol_10D', 'daily_vol_diff_pct', 'return_vol_240M', 'hour_volume_vol_diff', 'daily_vol_diff_pct30', 'roc', 'roc5', 'SPY_diff', 'volume_vol_30D', 'min_volume_vol_diff', 'month', 'range_vol_diff5', 'range_vol', 'SPY_diff3', 'day_of_month', 'v_diff_pct', 'oneD_stddev50', 'daily_volume_vol_diff_pct30']
+213.28 40.78
+
+BFP_1d_temporal_simulation_70
+['return_vol_5D', 'rsi5', 'return_vol_450M', 'roc_diff', 'volume_vol_450M', 'min_volume_vol_diff_pct', 'volume_vol_8H', 'v_diff_pct', 'roc', 'volume_vol_240M', 'SPY_1D', 'day_of_month', 'return_vol_240M', 'min_volume_vol_diff', 'month', 'hour_vol_diff_pct', 'threeD_stddev50', 'daily_vol_diff30', 'daily_volume_vol_diff30', 'price_10DDiff', 'rsi3', 'daily_vol_diff', 'oneD_stddev50', 'adx', 'hour_volume_vol_diff', 'SPY_3D', 'daily_volume_vol_diff_pct30', 'return_vol_10D', 'volume_vol_16H', 'cmf', 'price7', 'volume_vol_10D', 'range_vol', 'close_diff5', 'return_vol_30D', 'daily_volume_vol_diff', 'threeD_returns_close', 'min_vol_diff_pct']
+210.88 37.16
+
+BFP_1d_temporal_simulation_71
+['day_of_month', 'SPY_diff3', 'threeD_stddev50', 'volume_vol_5D', 'hour', 'return_vol_10D', 'return_vol_240M', 'return_vol_30D', 'adx', 'min_vol_diff', 'daily_vol_diff_pct30', 'rsi3', 'close_diff_deviation3', 'volume_vol_10D', 'daily_volume_vol_diff_pct30', 'SPY_1D', 'daily_vol_diff30', 'rsi', 'oneD_stddev50', 'daily_volume_vol_diff_pct', 'price7', 'volume_vol_240M', 'daily_vol_diff_pct', 'return_vol_16H', 'daily_volume_vol_diff', 'volume_vol_450M', 'SPY_diff', 'hour_vol_diff_pct', 'price_10DDiff', 'threeD_returns_close', 'close_diff', 'price_25DDiff', 'min_volume_vol_diff_pct']
+213.38 33.08
+
+BFP_1d_temporal_simulation_72
+['close_diff_deviation', 'volume_vol_8H', 'return_vol_450M', 'close_diff_deviation3', 'daily_vol_diff30', 'return_vol_16H', 'min_volume_vol_diff', 'daily_volume_vol_diff_pct30', 'return_vol_30D', 'hour_volume_vol_diff', 'rsi', 'volume_vol_16H', 'SPY_3D', 'return_vol_240M', 'hour_volume_vol_diff_pct', 'volume_vol_450M', 'min_vol_diff', 'SPY_1D', 'daily_vol_diff', 'hour_vol_diff_pct', 'daily_vol_diff_pct30', 'min_volume_vol_diff_pct', 'threeD_returns_close', 'range_vol_diff5', 'SPY_diff3', 'close_diff3', 'daily_vol_diff_pct', 'volume_vol_30D', 'close_diff5', 'return_vol_8H']
+206.4 38.78
+
+BFP_1d_temporal_simulation_73
+['volume_vol_10D', 'oneD_returns_close', 'volume_vol_240M', 'return_vol_8H', 'hour_vol_diff_pct', 'return_vol_240M', 'SPY_3D', 'close_diff', 'close_diff5', 'threeD_stddev50', 'daily_volume_vol_diff30', 'volume_vol_5D', 'SPY_diff', 'hour', 'daily_volume_vol_diff_pct', 'price7', 'price_10DDiff', 'adx', 'roc', 'day_of_month', 'range_vol', 'daily_volume_vol_diff_pct30', 'min_vol_diff']
+211.94 35.46
+
+BFP_1d_temporal_simulation_74
+['rsi5', 'close_diff3', 'SPY_1D', 'close_diff', 'roc', 'volume_vol_8H', 'min_volume_vol_diff', 'oneD_returns_close', 'volume_vol_240M', 'return_vol_240M', 'daily_vol_diff', 'rsi3', 'hour_volume_vol_diff', 'return_vol_16H', 'hour_vol_diff', 'daily_volume_vol_diff', 'threeD_returns_close', 'volume_vol_16H', 'range_vol', 'volume_vol_5D']
+202.66 41.16
+
+BFP_1d_temporal_simulation_75
+['close_diff_deviation', 'min_vol_diff_pct', 'daily_volume_vol_diff_pct', 'hour', 'price_25DDiff', 'volume_vol_16H', 'volume_vol_30D', 'min_vol_diff', 'return_vol_240M', 'day_of_week', 'roc_diff', 'v_diff_pct', 'hour_volume_vol_diff', 'daily_vol_diff30', 'close_diff5', 'rsi', 'hour_volume_vol_diff_pct', 'close_diff_deviation3', 'return_vol_450M', 'rsi3', 'oneD_stddev50', 'threeD_stddev50', 'daily_volume_vol_diff30', 'min_volume_vol_diff', 'volume_vol_450M', 'daily_volume_vol_diff', 'return_vol_8H', 'adx', 'close_diff', 'volume_vol_240M', 'volume_vol_10D', 'daily_vol_diff_pct', 'close_diff3', 'price_10DDiff', 'return_vol_30D', 'day_of_month', 'return_vol_16H']
+205.64 40.36
+
+BFP_1d_temporal_simulation_76
+['return_vol_16H', 'close_diff_deviation3', 'close_diff5', 'rsi3', 'SPY_3D', 'min_volume_vol_diff', 'return_vol_30D', 'volume_vol_8H', 'volume_vol_240M', 'rsi', 'daily_vol_diff', 'roc5', 'threeD_returns_close', 'rsi5', 'volume_vol_5D', 'daily_volume_vol_diff', 'roc_diff', 'return_vol_10D', 'day_of_week', 'close_diff', 'month', 'day_of_month', 'threeD_stddev50', 'SPY_diff', 'adx', 'roc3']
+209.06 34.86
+
+BFP_1d_temporal_simulation_77
+['price_25DDiff', 'range_vol_diff5', 'min_volume_vol_diff_pct', 'return_vol_30D', 'roc3', 'hour_vol_diff_pct', 'close_diff_deviation', 'return_vol_10D', 'return_vol_16H', 'range_vol', 'hour_vol_diff', 'rsi', 'daily_vol_diff', 'daily_vol_diff_pct', 'min_vol_diff', 'SPY_3D', 'month', 'hour', 'threeD_stddev50', 'close_diff']
+210.56 39.42
+
+BFP_1d_temporal_simulation_78
+['hour_vol_diff', 'oneD_stddev50', 'SPY_1D', 'threeD_returns_close', 'hour_volume_vol_diff_pct', 'month', 'close_diff5', 'return_vol_240M', 'min_vol_diff', 'SPY_diff', 'range_vol_diff5', 'roc', 'daily_vol_diff_pct', 'daily_volume_vol_diff_pct30', 'return_vol_5D', 'min_volume_vol_diff', 'volume_vol_30D', 'daily_vol_diff30', 'rsi5', 'hour_volume_vol_diff', 'roc3', 'price_25DDiff', 'day_of_week', 'rsi']
+206.72 32.82
+
+BFP_1d_temporal_simulation_79
+['SPY_diff', 'min_vol_diff', 'daily_vol_diff_pct', 'volume_vol_450M', 'close_diff_deviation', 'rsi5', 'volume_vol_8H', 'oneD_returns_close', 'SPY_1D', 'daily_volume_vol_diff30', 'month', 'return_vol_240M', 'range_vol_diff5', 'close_diff5', 'oneD_stddev50', 'hour_volume_vol_diff_pct', 'day_of_month', 'v_diff_pct', 'hour', 'return_vol_8H', 'daily_vol_diff_pct30', 'cmf', 'range_vol', 'roc', 'volume_vol_10D', 'hour_vol_diff_pct', 'daily_vol_diff30', 'SPY_diff3', 'price7']
+214.92 40.08
+
+BFP_1d_temporal_simulation_80
+['SPY_3D', 'daily_vol_diff', 'min_vol_diff', 'hour_vol_diff_pct', 'oneD_returns_close', 'oneD_stddev50', 'threeD_returns_close', 'adx', 'close_diff_deviation3', 'month', 'return_vol_8H', 'roc_diff', 'hour', 'daily_volume_vol_diff30', 'v_diff_pct', 'roc3', 'range_vol', 'return_vol_5D', 'cmf', 'hour_volume_vol_diff', 'return_vol_10D']
+205.64 42.56
+
+BFP_1d_temporal_simulation_81
+['close_diff_deviation3', 'close_diff', 'daily_volume_vol_diff_pct30', 'month', 'day_of_month', 'min_volume_vol_diff_pct', 'daily_vol_diff30', 'SPY_3D', 'return_vol_16H', 'daily_vol_diff', 'daily_volume_vol_diff30', 'price_10DDiff', 'adx', 'close_diff5', 'range_vol', 'volume_vol_450M', 'volume_vol_16H', 'hour_volume_vol_diff', 'daily_vol_diff_pct', 'volume_vol_30D', 'return_vol_5D', 'oneD_stddev50', 'min_vol_diff', 'daily_volume_vol_diff', 'SPY_1D', 'roc_diff', 'day_of_week', 'oneD_returns_close', 'price_25DDiff']
+209.08 33.98
+
+BFP_1d_temporal_simulation_82
+['hour_volume_vol_diff_pct', 'return_vol_30D', 'volume_vol_30D', 'SPY_diff3', 'min_volume_vol_diff_pct', 'return_vol_450M', 'min_volume_vol_diff', 'price_10DDiff', 'roc', 'min_vol_diff_pct', 'day_of_week', 'rsi', 'adx', 'roc5', 'daily_vol_diff30', 'return_vol_10D', 'day_of_month', 'return_vol_240M', 'rsi5', 'min_vol_diff', 'close_diff_deviation3', 'hour_vol_diff', 'daily_volume_vol_diff', 'oneD_stddev50', 'price_25DDiff', 'return_vol_5D', 'price7', 'daily_vol_diff_pct30', 'SPY_1D']
+209.78 37.32
+
+BFP_1d_temporal_simulation_83
+['min_volume_vol_diff', 'SPY_diff3', 'month', 'day_of_week', 'return_vol_8H', 'oneD_returns_close', 'volume_vol_16H', 'SPY_diff', 'return_vol_16H', 'return_vol_10D', 'return_vol_240M', 'volume_vol_450M', 'volume_vol_5D', 'oneD_stddev50', 'close_diff_deviation3', 'return_vol_5D', 'day_of_month', 'min_vol_diff', 'SPY_1D', 'SPY_3D', 'hour_volume_vol_diff_pct', 'daily_volume_vol_diff_pct30', 'return_vol_450M', 'close_diff5', 'rsi3', 'roc']
+216.58 35.8
+
+BFP_1d_temporal_simulation_84
+['hour_vol_diff_pct', 'daily_vol_diff', 'SPY_3D', 'close_diff', 'hour', 'range_vol', 'volume_vol_10D', 'threeD_returns_close', 'close_diff_deviation3', 'hour_volume_vol_diff', 'return_vol_30D', 'volume_vol_8H', 'threeD_stddev50', 'return_vol_8H', 'min_volume_vol_diff_pct', 'min_volume_vol_diff', 'price7', 'day_of_week', 'adx', 'roc5', 'oneD_stddev50', 'rsi3', 'hour_vol_diff', 'daily_volume_vol_diff', 'return_vol_10D', 'close_diff_deviation']
+208.72 42.12
+
+BFP_1d_temporal_simulation_85
+['price7', 'return_vol_10D', 'min_vol_diff_pct', 'hour_vol_diff_pct', 'range_vol', 'return_vol_30D', 'SPY_diff', 'daily_volume_vol_diff30', 'roc3', 'close_diff3', 'threeD_stddev50', 'volume_vol_8H', 'rsi3', 'daily_volume_vol_diff_pct', 'volume_vol_30D', 'roc_diff', 'price_10DDiff', 'daily_volume_vol_diff', 'close_diff_deviation3', 'return_vol_8H', 'hour_volume_vol_diff', 'volume_vol_10D', 'daily_vol_diff30', 'close_diff', 'hour_vol_diff', 'hour_volume_vol_diff_pct', 'close_diff5', 'price_25DDiff', 'threeD_returns_close', 'roc5', 'return_vol_5D']
+199.56 39.38
+
+BFP_1d_temporal_simulation_86
+['price_10DDiff', 'return_vol_240M', 'rsi3', 'volume_vol_16H', 'hour', 'min_vol_diff', 'daily_vol_diff', 'daily_volume_vol_diff30', 'SPY_diff3', 'return_vol_450M', 'price_25DDiff', 'rsi5', 'oneD_stddev50', 'roc3', 'range_vol', 'month', 'price7', 'volume_vol_240M', 'daily_volume_vol_diff_pct30', 'return_vol_8H', 'volume_vol_8H', 'daily_vol_diff30', 'return_vol_16H', 'close_diff3', 'day_of_week', 'day_of_month', 'volume_vol_5D', 'cmf', 'volume_vol_30D', 'min_volume_vol_diff', 'threeD_stddev50', 'roc_diff', 'min_volume_vol_diff_pct', 'hour_vol_diff', 'adx', 'SPY_diff', 'daily_vol_diff_pct30', 'rsi', 'close_diff_deviation3']
+212.08 45.3
+
+BFP_1d_temporal_simulation_87
+['threeD_returns_close', 'return_vol_240M', 'oneD_stddev50', 'price_10DDiff', 'SPY_diff', 'SPY_diff3', 'price7', 'return_vol_30D', 'return_vol_5D', 'hour_vol_diff', 'range_vol', 'roc_diff', 'volume_vol_16H', 'return_vol_16H', 'daily_volume_vol_diff_pct', 'hour_volume_vol_diff', 'SPY_3D', 'volume_vol_240M', 'daily_vol_diff', 'daily_vol_diff30', 'rsi', 'month', 'close_diff3', 'cmf', 'rsi5', 'return_vol_8H', 'volume_vol_8H', 'close_diff_deviation3', 'v_diff_pct', 'price_25DDiff', 'rsi3', 'roc3']
+204.78 38.94
+
+BFP_1d_temporal_simulation_88
+['hour_volume_vol_diff_pct', 'SPY_1D', 'hour_volume_vol_diff', 'roc', 'month', 'SPY_3D', 'day_of_week', 'cmf', 'price7', 'min_vol_diff_pct', 'hour_vol_diff_pct', 'v_diff_pct', 'min_volume_vol_diff', 'roc3', 'volume_vol_450M', 'oneD_stddev50', 'hour', 'SPY_diff3', 'volume_vol_16H', 'volume_vol_5D', 'return_vol_8H', 'daily_volume_vol_diff30', 'price_10DDiff', 'return_vol_240M', 'return_vol_16H', 'volume_vol_30D', 'volume_vol_10D', 'rsi3', 'day_of_month', 'roc5']
+215.02 39.68
+
+BFP_1d_temporal_simulation_89
+['volume_vol_450M', 'volume_vol_10D', 'volume_vol_5D', 'SPY_diff3', 'min_vol_diff_pct', 'daily_volume_vol_diff_pct30', 'v_diff_pct', 'close_diff_deviation3', 'price7', 'daily_vol_diff30', 'daily_vol_diff_pct30', 'hour_volume_vol_diff', 'hour_volume_vol_diff_pct', 'month', 'daily_vol_diff_pct', 'rsi', 'hour', 'oneD_returns_close', 'close_diff', 'daily_volume_vol_diff_pct', 'min_volume_vol_diff_pct', 'hour_vol_diff', 'range_vol_diff5', 'min_volume_vol_diff']
+188.94 32.3
+
+BFP_1d_temporal_simulation_90
+['day_of_month', 'roc', 'hour', 'return_vol_30D', 'volume_vol_240M', 'SPY_diff3', 'return_vol_240M', 'min_volume_vol_diff_pct', 'min_volume_vol_diff', 'close_diff_deviation3', 'daily_volume_vol_diff_pct30', 'return_vol_10D', 'v_diff_pct', 'daily_volume_vol_diff', 'volume_vol_30D', 'range_vol_diff5', 'daily_vol_diff_pct', 'return_vol_450M', 'roc_diff', 'threeD_returns_close', 'rsi5', 'SPY_3D', 'close_diff', 'daily_vol_diff_pct30', 'rsi', 'oneD_stddev50', 'price_25DDiff', 'close_diff5', 'rsi3', 'price_10DDiff', 'SPY_1D', 'volume_vol_16H', 'adx', 'roc3', 'return_vol_16H', 'return_vol_5D']
+211.22 34.06
+
+BFP_1d_temporal_simulation_91
+['close_diff_deviation3', 'return_vol_8H', 'SPY_3D', 'adx', 'close_diff3', 'volume_vol_450M', 'threeD_returns_close', 'roc', 'day_of_week', 'oneD_returns_close', 'return_vol_10D', 'SPY_1D', 'daily_volume_vol_diff_pct30', 'oneD_stddev50', 'volume_vol_30D', 'close_diff', 'min_volume_vol_diff', 'return_vol_240M', 'volume_vol_5D', 'rsi', 'range_vol_diff5', 'rsi5', 'daily_vol_diff', 'volume_vol_240M', 'price_25DDiff', 'hour_volume_vol_diff_pct', 'daily_volume_vol_diff', 'roc_diff', 'daily_volume_vol_diff30', 'volume_vol_16H', 'price7', 'return_vol_5D', 'month', 'roc5', 'hour_vol_diff', 'volume_vol_8H', 'SPY_diff3', 'hour_volume_vol_diff', 'min_vol_diff']
+213.9 37.84
+
+BFP_1d_temporal_simulation_92
+['volume_vol_240M', 'roc', 'volume_vol_450M', 'roc_diff', 'SPY_diff', 'daily_volume_vol_diff30', 'rsi5', 'SPY_1D', 'range_vol_diff5', 'day_of_week', 'hour_volume_vol_diff_pct', 'daily_vol_diff_pct30', 'roc5', 'close_diff5', 'volume_vol_16H', 'v_diff_pct', 'volume_vol_30D', 'cmf', 'month', 'volume_vol_8H', 'threeD_returns_close', 'daily_vol_diff_pct', 'return_vol_8H', 'return_vol_240M', 'oneD_stddev50', 'day_of_month', 'range_vol', 'price_10DDiff', 'hour_vol_diff_pct', 'daily_vol_diff30', 'hour', 'return_vol_16H', 'return_vol_450M', 'daily_volume_vol_diff_pct', 'min_volume_vol_diff', 'hour_vol_diff', 'SPY_diff3']
+213.12 45.42
+
+BFP_1d_temporal_simulation_93
+['daily_vol_diff', 'rsi3', 'close_diff_deviation3', 'min_volume_vol_diff_pct', 'v_diff_pct', 'daily_vol_diff_pct', 'return_vol_10D', 'range_vol', 'daily_vol_diff30', 'min_vol_diff_pct', 'return_vol_8H', 'price7', 'volume_vol_5D', 'SPY_diff', 'daily_vol_diff_pct30', 'return_vol_240M', 'price_10DDiff', 'day_of_month', 'min_volume_vol_diff', 'price_25DDiff', 'volume_vol_240M', 'day_of_week', 'volume_vol_30D']
+202.8 33.22
+
+BFP_1d_temporal_simulation_94
+['SPY_1D', 'return_vol_16H', 'close_diff_deviation', 'daily_vol_diff_pct', 'month', 'adx', 'volume_vol_240M', 'daily_volume_vol_diff_pct', 'daily_vol_diff', 'v_diff_pct', 'range_vol_diff5', 'roc5', 'return_vol_8H', 'hour_volume_vol_diff', 'roc', 'rsi3', 'threeD_returns_close', 'oneD_returns_close', 'return_vol_30D', 'day_of_month', 'close_diff', 'SPY_diff3', 'rsi', 'daily_volume_vol_diff30', 'min_vol_diff']
+211.96 40.68
+
+BFP_1d_temporal_simulation_95
+['daily_vol_diff30', 'daily_volume_vol_diff_pct', 'close_diff3', 'close_diff_deviation', 'hour_vol_diff', 'return_vol_240M', 'month', 'roc_diff', 'price_25DDiff', 'volume_vol_450M', 'rsi', 'volume_vol_5D', 'hour_volume_vol_diff', 'min_volume_vol_diff_pct', 'cmf', 'daily_vol_diff_pct30', 'close_diff5', 'volume_vol_8H', 'rsi3', 'daily_volume_vol_diff', 'close_diff_deviation3', 'min_vol_diff_pct', 'daily_volume_vol_diff_pct30', 'daily_volume_vol_diff30', 'day_of_week', 'return_vol_8H', 'day_of_month', 'min_vol_diff', 'oneD_stddev50', 'roc', 'rsi5']
+207.8 39.42
+
+BFP_1d_temporal_simulation_96
+['threeD_returns_close', 'daily_vol_diff', 'hour_volume_vol_diff_pct', 'oneD_stddev50', 'v_diff_pct', 'close_diff_deviation3', 'daily_vol_diff30', 'hour_volume_vol_diff', 'daily_vol_diff_pct30', 'close_diff_deviation', 'return_vol_450M', 'threeD_stddev50', 'range_vol_diff5', 'min_volume_vol_diff', 'price_25DDiff', 'daily_volume_vol_diff_pct', 'month', 'min_volume_vol_diff_pct', 'return_vol_30D', 'oneD_returns_close', 'day_of_month', 'daily_volume_vol_diff']
+210.98 36.76
+
+BFP_1d_temporal_simulation_97
+['v_diff_pct', 'daily_vol_diff30', 'return_vol_16H', 'oneD_returns_close', 'rsi3', 'range_vol_diff5', 'roc5', 'close_diff_deviation3', 'price_25DDiff', 'rsi', 'close_diff', 'return_vol_240M', 'daily_volume_vol_diff_pct30', 'SPY_diff3', 'rsi5', 'return_vol_10D', 'volume_vol_240M', 'volume_vol_8H', 'min_vol_diff', 'hour', 'roc3', 'oneD_stddev50', 'volume_vol_450M', 'return_vol_5D', 'SPY_1D', 'return_vol_450M', 'daily_volume_vol_diff', 'SPY_diff', 'volume_vol_30D', 'daily_vol_diff', 'close_diff5']
+209.0 38.14
+
+BFP_1d_temporal_simulation_98
+['close_diff5', 'return_vol_30D', 'return_vol_450M', 'adx', 'SPY_3D', 'v_diff_pct', 'hour_volume_vol_diff_pct', 'close_diff3', 'range_vol_diff5', 'hour_vol_diff', 'SPY_diff3', 'SPY_diff', 'min_vol_diff_pct', 'daily_volume_vol_diff', 'volume_vol_5D', 'close_diff_deviation3', 'min_vol_diff', 'oneD_stddev50', 'daily_vol_diff_pct30', 'price_10DDiff', 'daily_vol_diff', 'volume_vol_450M', 'volume_vol_8H', 'cmf', 'return_vol_16H', 'return_vol_8H', 'month']
+209.92 40.42
+
+BFP_1d_temporal_simulation_99
+['close_diff_deviation', 'volume_vol_30D', 'oneD_returns_close', 'price7', 'return_vol_16H', 'volume_vol_16H', 'daily_vol_diff30', 'roc', 'oneD_stddev50', 'volume_vol_8H', 'adx', 'volume_vol_5D', 'price_25DDiff', 'close_diff3', 'hour_volume_vol_diff_pct', 'min_volume_vol_diff_pct', 'threeD_returns_close', 'daily_volume_vol_diff', 'hour_vol_diff', 'return_vol_450M', 'daily_vol_diff', 'volume_vol_10D', 'return_vol_5D', 'hour_volume_vol_diff']
+202.76 42.66
+
+BFP_1d_temporal_simulation_100
+['day_of_month', 'close_diff', 'cmf', 'daily_vol_diff_pct30', 'daily_volume_vol_diff30', 'month', 'threeD_stddev50', 'min_volume_vol_diff', 'hour', 'daily_volume_vol_diff_pct30', 'roc_diff', 'daily_volume_vol_diff', 'close_diff_deviation3', 'return_vol_16H', 'oneD_stddev50', 'adx', 'close_diff3', 'min_vol_diff', 'daily_vol_diff_pct', 'rsi', 'volume_vol_30D', 'daily_vol_diff', 'volume_vol_16H', 'min_vol_diff_pct', 'rsi5', 'volume_vol_5D', 'day_of_week', 'range_vol', 'price7', 'hour_vol_diff', 'v_diff_pct', 'daily_volume_vol_diff_pct', 'roc5', 'hour_volume_vol_diff', 'volume_vol_10D', 'rsi3']
+201.74 43.48
+
+BFP_1d_temporal_simulation_101
+['close_diff3', 'volume_vol_240M', 'range_vol_diff5', 'hour', 'daily_volume_vol_diff30', 'daily_volume_vol_diff_pct30', 'min_volume_vol_diff_pct', 'volume_vol_450M', 'volume_vol_8H', 'daily_volume_vol_diff', 'volume_vol_30D', 'volume_vol_16H', 'rsi', 'hour_vol_diff_pct', 'daily_vol_diff_pct', 'SPY_3D', 'day_of_month', 'return_vol_10D', 'hour_volume_vol_diff', 'return_vol_450M', 'min_vol_diff', 'SPY_diff3', 'hour_volume_vol_diff_pct', 'return_vol_16H', 'day_of_week', 'return_vol_8H', 'roc5', 'daily_volume_vol_diff_pct', 'roc_diff', 'SPY_1D', 'min_vol_diff_pct', 'oneD_returns_close', 'volume_vol_10D', 'threeD_stddev50', 'close_diff', 'rsi5']
+217.1 37.76
+
+BFP_1d_temporal_simulation_102
+['daily_vol_diff', 'return_vol_240M', 'daily_volume_vol_diff_pct30', 'return_vol_8H', 'daily_volume_vol_diff30', 'day_of_month', 'close_diff', 'range_vol', 'close_diff_deviation3', 'hour_volume_vol_diff_pct', 'volume_vol_30D', 'range_vol_diff5', 'adx', 'min_volume_vol_diff_pct', 'daily_volume_vol_diff', 'volume_vol_8H', 'price7', 'hour_volume_vol_diff', 'roc', 'daily_vol_diff_pct30', 'daily_vol_diff30', 'volume_vol_5D', 'return_vol_30D', 'close_diff3', 'price_10DDiff', 'volume_vol_240M', 'roc5', 'SPY_diff3', 'SPY_3D']
+204.46 32.48
+
+BFP_1d_temporal_simulation_103
+['close_diff_deviation', 'v_diff_pct', 'SPY_1D', 'rsi', 'return_vol_10D', 'close_diff5', 'volume_vol_10D', 'return_vol_30D', 'hour', 'close_diff', 'range_vol', 'hour_volume_vol_diff_pct', 'return_vol_450M', 'daily_vol_diff', 'min_vol_diff_pct', 'roc3', 'daily_volume_vol_diff_pct30', 'volume_vol_30D', 'threeD_stddev50', 'oneD_stddev50', 'cmf', 'return_vol_8H', 'price7', 'close_diff_deviation3', 'hour_vol_diff_pct', 'roc5', 'threeD_returns_close', 'day_of_month', 'SPY_3D', 'hour_vol_diff', 'hour_volume_vol_diff', 'min_volume_vol_diff', 'min_volume_vol_diff_pct']
+213.42 41.48
+
+BFP_1d_temporal_simulation_104
+['month', 'daily_volume_vol_diff_pct30', 'return_vol_10D', 'daily_vol_diff_pct30', 'roc_diff', 'hour_vol_diff_pct', 'price_25DDiff', 'SPY_1D', 'daily_vol_diff30', 'roc', 'daily_volume_vol_diff_pct', 'return_vol_8H', 'SPY_diff3', 'return_vol_240M', 'roc5', 'close_diff_deviation', 'volume_vol_30D', 'price_10DDiff', 'cmf', 'SPY_diff']
+201.62 32.46
+
+BFP_1d_temporal_simulation_105
+['min_vol_diff_pct', 'SPY_1D', 'hour_volume_vol_diff', 'return_vol_30D', 'threeD_stddev50', 'day_of_month', 'hour', 'return_vol_8H', 'adx', 'return_vol_450M', 'close_diff', 'rsi', 'return_vol_240M', 'price_25DDiff', 'return_vol_16H', 'return_vol_5D', 'v_diff_pct', 'rsi3', 'month', 'price_10DDiff', 'min_vol_diff', 'daily_volume_vol_diff30', 'return_vol_10D', 'daily_vol_diff30', 'SPY_diff3', 'rsi5', 'min_volume_vol_diff_pct', 'threeD_returns_close', 'volume_vol_450M', 'volume_vol_10D', 'oneD_returns_close', 'close_diff5', 'roc3']
+213.52 37.38
+
+BFP_1d_temporal_simulation_106
+['hour_vol_diff_pct', 'SPY_diff', 'day_of_week', 'price_25DDiff', 'min_volume_vol_diff_pct', 'roc', 'daily_vol_diff30', 'price7', 'volume_vol_16H', 'roc_diff', 'cmf', 'close_diff3', 'volume_vol_240M', 'daily_volume_vol_diff', 'daily_volume_vol_diff30', 'hour', 'SPY_diff3', 'hour_volume_vol_diff_pct', 'volume_vol_8H', 'return_vol_5D']
+194.86 34.14
+
+BFP_1d_temporal_simulation_107
+['return_vol_8H', 'volume_vol_240M', 'daily_volume_vol_diff_pct30', 'return_vol_450M', 'rsi5', 'return_vol_30D', 'close_diff3', 'hour_vol_diff_pct', 'threeD_stddev50', 'day_of_week', 'SPY_3D', 'volume_vol_16H', 'threeD_returns_close', 'price_10DDiff', 'hour_volume_vol_diff_pct', 'month', 'daily_vol_diff30', 'min_vol_diff', 'day_of_month', 'close_diff_deviation3', 'rsi3', 'min_vol_diff_pct', 'volume_vol_450M', 'hour', 'close_diff', 'min_volume_vol_diff_pct', 'return_vol_16H', 'rsi']
+219.3 36.68
+
+BFP_1d_temporal_simulation_108
+['daily_vol_diff30', 'min_vol_diff', 'v_diff_pct', 'oneD_stddev50', 'return_vol_30D', 'return_vol_450M', 'adx', 'min_volume_vol_diff', 'cmf', 'SPY_diff', 'daily_volume_vol_diff30', 'roc', 'roc5', 'daily_vol_diff', 'price_10DDiff', 'volume_vol_16H', 'return_vol_10D', 'threeD_returns_close', 'rsi3', 'close_diff5', 'volume_vol_8H', 'volume_vol_240M']

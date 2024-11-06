@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sagemaker = "*"
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+scikit-learn = "*"
+boto3 = "*"
+pandas-market-calendars = "*"
+pandas-ta = "*"
+xgboost = "*"
+requests = "*"
+ipykernel = "*"
+plotly = "*"
+jinja2 = "*"
+hyperopt = "*"
+shap = "*"
+shao = "*"
+scikit-optimize = "*"
+nbformat = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.9.10"
